@@ -1,5 +1,5 @@
-# Quectel framework for PlatformIO
+# Framework for PlatformIO
 
 ## Тhe platform is frozen indefinitely - lack of support from stakeholders...<br>
-## More precisely: because of incompetent Quectel managers
-## TIP: If you have an alternative - run away from Quectel
+**I will not describe the reasons because they are threatening me with a legal responsibility<br>**
+**I will delete the Framework ( Source Codes ) due to license restrictions<br>**
